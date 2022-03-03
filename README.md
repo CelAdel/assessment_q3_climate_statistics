@@ -1,4 +1,4 @@
-# climate_statistics
+# Climate statistics repository organisation
 
 This repository contains 
 - Climate data from 1855-2015 for Melbourne and Oxford
